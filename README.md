@@ -51,3 +51,7 @@ http://98.70.40.244:5173/
 To access the admin panel of the Core_Techies_Assignment website, use the following login credentials:
 Email: admin@gmail.com
 Password: admin@123
+
+In this application, user passwords undergo secure hashing 
+![image](https://github.com/ArunodaySingh/Core_Techies_Assignment/assets/58572391/93699cce-358f-4542-bec0-d9c498e414d2)
+
